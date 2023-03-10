@@ -1,7 +1,7 @@
 {
   "name": "blessed-terminal",
-  "version": "0.1.0",
-  "description": "",
+  "version": "0.1.1",
+  "description": "Build terminal dashboards using ascii/ansi art and javascript",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yaronn/blessed-terminal.git"
+    "url": "https://github.com/glazarov95/blessed-terminal.git"
   },
   "author": "Georgi Lazarov (glazarov95@gmail.com)",
   "license": "MIT",
