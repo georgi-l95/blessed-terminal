@@ -1,6 +1,6 @@
 {
   "name": "blessed-terminal",
-  "version": "0.1.1",
+  "version": "0.1.21",
   "description": "Build terminal dashboards using ascii/ansi art and javascript",
   "main": "index.js",
   "types": "index.d.ts",
@@ -38,7 +38,6 @@
     "memorystream": "^0.3.1",
     "picture-tuber": "^1.0.1",
     "sparkline": "^0.1.1",
-    "strip-ansi": "^7.0.1",
     "term-canvas": "0.0.5",
     "x256": ">=0.0.1"
   }
